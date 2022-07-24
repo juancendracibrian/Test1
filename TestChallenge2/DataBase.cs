@@ -8,7 +8,7 @@ namespace Challenge
 {
     public class DataBase
     {
-        public static Rooms GetAllRooms()
+        public static Rooms GetAllRooms() /*Viva el chechev*/
         {
             Rooms all = new Rooms();
             List<Room> list = new List<Room>();
